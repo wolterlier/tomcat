@@ -1,5 +1,6 @@
 Name: wltomcat
 Cartridge-Short-Name: WLTOMCAT
+Source-Url: https://github.com/wolterlier/tomcat.git
 Cartridge-Vendor: wlenterprises
 Cartridge-Version: 0.0.1
 Display-Name: Tomcat 7.0

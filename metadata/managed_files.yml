@@ -1,0 +1,13 @@
+---
+locked_files:
+- bin/
+- bin/*
+- metadata/
+- metadata/*
+- env/
+- env/OPENSHIFT_TOMCAT_DIR
+- env/OPENSHIFT_TOMCAT_LOG_DIR
+- env/OPENSHIFT_TOMCAT_JDK*
+- env/M2_HOME
+processed_templates:
+- '**/*.erb'
